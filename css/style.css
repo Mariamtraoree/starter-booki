@@ -201,7 +201,7 @@
       border: 1px solid #0065fc;
     }
     .submitButtonLoupe:hover {
-      background-color: #3b12d1;
+      background-color: #564d78;
     }
     .searchFormSearchinput {
       width: 40%;
@@ -552,13 +552,10 @@
     font-family: Raleway;
   }
   
-  
-  
   @media (max-width: 767.98px) {
       .activities-cards img {
           width: 100%;
         }
-  
   
     #activities{
       padding: 0;
